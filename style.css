@@ -125,3 +125,8 @@ ow{
     padding:2rem;
     padding-top: 5rem;
 }
+.pro
+{
+    text-align:center;
+    color:var(var(--primary-color));
+}
