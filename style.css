@@ -109,11 +109,19 @@ ow{
         cursor: pointer;
 }
 .foot{
-    padding:3rem;
-    text-align:center;
-    background-color:#D6D3D1;
-}
+    
+          background-color:#3B82F6;
+          
+          padding: 2rem 1rem;
+          text-align: center;
+          color: white;
+          border-top-right-radius: 1rem;
+         border-width: 66rem;
+        }
+          
+
 .elements{
     display:inline;
-    padding:orem 2rem;
+    padding:2rem;
+    padding-top: 5rem;
 }
