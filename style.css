@@ -47,6 +47,7 @@ hr{
     background-color: var(--primary-color);
     color:#171717;
     border-bottom-left-radius: 0.5rem;
+    padding:1rem 0rem;
 }
 .navigation .link{
      color:white;
@@ -58,7 +59,7 @@ hr{
 }
 .navigation.nav-brand{
     font-style: #18181B;
-    font-width:2rem
+    font-width:2rem;
 }
 .navigation.link-active{
     font-weight:bold;
