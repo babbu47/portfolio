@@ -4,13 +4,13 @@
     }
     :root{
           --primary-color:#3B82F6;
-          --secondary-color:brown;
+          --secondary-color:#A8A29E;
           --off-white:purple;
           --bold-color:#1C1917;
     }
 .container
-{
-    padding-left:2rem;
+{ background-color: #A8A29E;
+    padding-left:1rem;
 }
 .container-centre
 { max-width: 600px;
@@ -86,7 +86,8 @@ hr{
     padding:2rem;
 }
 ow{
-    background-color: var(--off-white);
+    background-color:var(--secondary-color);
+    border-color:#A8A29E;box-sizing:2rem;
 }
 .section{
     text-align: center;
