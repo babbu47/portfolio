@@ -92,6 +92,10 @@ margin:auto;
 .navigation.link-active{
    font-weight:bold;
    }
-
+   .link{
+    text-decoration: none;
+padding-left: 1rem;
+padding-right: 1rem;
+}
 
 
