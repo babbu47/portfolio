@@ -109,3 +109,20 @@ font-width:2rem;
 padding-left: 1rem;
 padding-right: 1rem;
 }
+.all1{
+  display: inline-block;
+ }
+.blog2img{
+  display:block;
+max-width:50px;
+margin:auto;
+}
+.blog2{
+  display:flex
+}
+.hone{
+  background-color: #171717;
+text-align:center;
+max-width: 600px;
+}
+  
