@@ -111,12 +111,10 @@ ow{
         cursor: pointer;
 }
 .foot{
-        
-        bottom:0;
+        margin-bottom: 0rem;
         background-color:#3B82F6;
-        margin-top: 1rem;
         width:100%;
-        height:200%;
+        height:8rem;
         text-align: center;
         color: white;
         border-top-right-radius: 1rem;
