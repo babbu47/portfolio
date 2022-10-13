@@ -3,9 +3,37 @@ body{
   font-family: 'Montserrat', sans-serif;
   margin:0%; 
 }
+.heading{
+  font-size: 4rem;
+  margin-bottom:2rem;
+}
+.quik{
+  text-align:center;
+  }
+  .button{
 
+    background-color: #3B82F6;
+    border-radius: 1rem 1rem;
+    color: white;
+    padding: 15px 30px;
+    
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 3px 2px;
+    cursor: pointer;
+    
+    }
+    .container
+{ background-color:#E7E5E4;
+padding-left:1rem;
+text-align:center
+}
+.container-centre
+{ max-width: 600px;
+margin:auto
 
-
+}
 
 h1{
     text-align: center;
@@ -27,7 +55,9 @@ h1{
         --bold-color:#1C1917;
   }
   .hey{
-    color:var(--bold-color);
+  text-align: center;
+  font-size:2rem;
+
   }
   .into{
     color:var(--primary-color);
@@ -69,7 +99,7 @@ color:#2563EB;
 }
 .navigation.nav-brand{
  font-style: #18181B;
- font-width:2rem;
+font-width:2rem;
 }
 .navigation.link-active{
  font-weight:bold;
