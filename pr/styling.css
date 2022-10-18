@@ -25,23 +25,29 @@ text-align:center
 .container-centre
 { max-width: 600px;
 margin:auto
-
 }
 .button{
-
 background-color: #3B82F6;
 border-radius: 1rem 1rem;
 color: white;
 padding: 15px 30px;
-
 text-decoration: none;
 display: inline-block;
 font-size: 15px;
 margin: 3px 2px;
 cursor: pointer;
-
 }
-
+.button1{
+    background-color: white;
+    border-radius: 1rem 1rem;
+    color:black;
+    padding: 12px 25px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 1px 1px;
+    cursor: pointer;  
+}
 .section h2
 {
 text-align: center;
@@ -111,6 +117,7 @@ padding-right: 1rem;
     display:inline;
     padding:2rem;
     padding-top: 5rem;
+    color:whitesmoke;
 }
 
 
