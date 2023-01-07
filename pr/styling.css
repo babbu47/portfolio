@@ -1,123 +1,111 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
-body{
-        font-family: 'Montserrat', sans-serif;
-        margin:0%; 
-     }
-
-:root{
-      --primary-color:#3B82F6;
-      --secondary-color:#A8A29E;
-      --off-white:purple;
-      --bold-color:#1C1917;
-}
-.pro
-{
-    text-align: center;
-    color:var(--primary-color);
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0%;
 }
 
-.container
-{ background-color:#E7E5E4;
-padding-left:1rem;
-text-align:center
+:root {
+  --primary-color: #3b82f6;
+  --secondary-color: #a8a29e;
+  --off-white: purple;
+  --bold-color: #1c1917;
 }
-.container-centre
-{ max-width: 600px;
-margin:auto
-}
-.button{
-background-color: #3B82F6;
-border-radius: 1rem 1rem;
-color: white;
-padding: 15px 30px;
-text-decoration: none;
-display: inline-block;
-font-size: 15px;
-margin: 3px 2px;
-cursor: pointer;
-}
-.button1{
-    background-color: white;
-    border-radius: 1rem 1rem;
-    color:black;
-    padding: 12px 25px;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 15px;
-    margin: 1px 1px;
-    cursor: pointer;  
-}
-.section h2
-{
-text-align: center;
-padding:2rem;
-}
-.quik{
-text-align:center;
+.pro {
+  text-align: center;
+  color: var(--primary-color);
 }
 
-.hero{
-padding:2rem;
-
+.container {
+  background-color: #e7e5e4;
+  padding-left: 1rem;
+  text-align: center;
 }
-.hero .hero-img
-{
-display:block;
-max-width:350px;
-margin:auto;
+.container-centre {
+  max-width: 600px;
+  margin: auto;
 }
-.navigation{
-    background-color: var(--primary-color);
-    color:#171717;
-    border-bottom-left-radius: 0.5rem;
-    padding:1rem 0rem;
+.button {
+  background-color: #3b82f6;
+  border-radius: 1rem 1rem;
+  color: white;
+  padding: 15px 30px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 3px 2px;
+  cursor: pointer;
 }
-.non-bullet{
-    list-style: none;
-    padding: orem 1rem;
+.button1 {
+  background-color: white;
+  border-radius: 1rem 1rem;
+  color: black;
+  padding: 12px 25px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 1px 1px;
+  cursor: pointer;
 }
-.list-inline{
-    display:inline;
-    padding:0rem 0rem;
-    
+.section h2 {
+  text-align: center;
+  padding: 2rem;
 }
-.navigation .link{
-    color:white;
-    text-align: right;
-   }
-.navigation .pills
-{
-   text-align: right;
-}
-.navigation.nav-brand{
-   font-style: #18181B;
-   font-width:2rem;
-}
-.navigation.link-active{
-   font-weight:bold;
-   }
-.link{
-    text-decoration: none;
-padding-left: 1rem;
-padding-right: 1rem;
-}
-.foot{
-    margin-bottom: 0rem;
-    background-color:#3B82F6;
-    width:100%;
-    height:8rem;
-    text-align: center;
-    color: white;
-    border-top-right-radius: 1rem;
-    border-width: 66rem;
+.quik {
+  text-align: center;
 }
 
-.elements{
-    display:inline;
-    padding:2rem;
-    padding-top: 5rem;
-    color:whitesmoke;
+.hero {
+  padding: 2rem;
 }
-
-
+.hero .hero-img {
+  display: block;
+  max-width: 350px;
+  margin: auto;
+}
+.navigation {
+  background-color: var(--primary-color);
+  color: #171717;
+  border-bottom-left-radius: 0.5rem;
+  padding: 1rem 0rem;
+}
+.non-bullet {
+  list-style: none;
+  padding: orem 1rem;
+}
+.list-inline {
+  display: inline;
+  padding: 0rem 0rem;
+}
+.navigation .link {
+  color: white;
+  text-align: right;
+}
+.navigation .pills {
+  text-align: right;
+}
+.navigation.nav-brand {
+  font-style: #18181b;
+}
+.navigation.link-active {
+  font-weight: bold;
+}
+.link {
+  text-decoration: none;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.foot {
+  margin-bottom: 0px;
+  background-color: #3b82f6;
+  width: 100px;
+  text-align: center;
+  color: white;
+  border-top-right-radius: 1rem;
+  border-width: 66rem;
+}
+.elements {
+  display: inline;
+  padding: 2rem;
+  padding-top: 5rem;
+  color: whitesmoke;
+}
